@@ -35,5 +35,4 @@ To use the Jupyter Notebook:
 3. Open the `.ipynb` file in Jupyter Notebook and run the cells to see the full EDA and visualizations.
 4. The results and conclusions are provided at the end of the notebook.
 
-## 7. License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute as needed.
+
